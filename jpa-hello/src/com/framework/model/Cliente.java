@@ -43,4 +43,9 @@ public class Cliente {
 		return "Cliente [id=" + id + ", nome=" + nome + ", profissao=" + profissao + "]";
 	}
 
+	public void setCpf(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
